@@ -6,6 +6,104 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Association",
+            "request": "launch",
+            "mainClass": "Association",
+            "projectName": "myFirstProject_b3403663"
+        },
+        {
+            "type": "java",
+            "name": "Launch Synchronized",
+            "request": "launch",
+            "mainClass": "Synchronized",
+            "projectName": "myFirstProject_b3403663"
+        },
+        {
+            "type": "java",
+            "name": "Launch Interface",
+            "request": "launch",
+            "mainClass": "Interface",
+            "projectName": "myFirstProject_b3403663"
+        },
+        {
+            "type": "java",
+            "name": "Launch Abstraction",
+            "request": "launch",
+            "mainClass": "Abstraction",
+            "projectName": "myFirstProject_b3403663"
+        },
+        {
+            "type": "java",
+            "name": "Launch Polymorphism",
+            "request": "launch",
+            "mainClass": "Polymorphism",
+            "projectName": "myFirstProject_b3403663"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo",
+            "request": "launch",
+            "mainClass": "demo",
+            "projectName": "myFirstProject_b3403663"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayOfObjects",
+            "request": "launch",
+            "mainClass": "ArrayOfObjects",
+            "projectName": "myFirstProject_b3403663"
+        },
+        {
+            "type": "java",
+            "name": "Launch Student",
+            "request": "launch",
+            "mainClass": "Student",
+            "projectName": "myFirstProject_b3403663"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringMethods",
+            "request": "launch",
+            "mainClass": "StringMethods",
+            "projectName": "myFirstProject_b3403663"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashMapMethods",
+            "request": "launch",
+            "mainClass": "HashMapMethods",
+            "projectName": "myFirstProject_b3403663"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListMethods",
+            "request": "launch",
+            "mainClass": "ArrayListMethods",
+            "projectName": "myFirstProject_b3403663"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultipleInstance",
+            "request": "launch",
+            "mainClass": "MultipleInstance",
+            "projectName": "myFirstProject_b3403663"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tree",
+            "request": "launch",
+            "mainClass": "Tree",
+            "projectName": "myFirstProject_b3403663"
+        },
+        {
+            "type": "java",
+            "name": "Launch max_min_array",
+            "request": "launch",
+            "mainClass": "max_min_array",
+            "projectName": "myFirstProject_b3403663"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
