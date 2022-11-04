@@ -7,10 +7,10 @@ class Demo {
 }
 
 class Mythread extends Thread {
-    Demo object;
+    QuiIckSORT object;
     String input;
 
-    Mythread(Demo d, String name) {
+    Mythread(QuiIckSORT d, String name) {
         object = d;
         input = name;
     }
@@ -24,7 +24,7 @@ class Mythread extends Thread {
 
 public class Synchronized {
     public static void main(String[] args) {
-        Demo d = new Demo();
+        QuiIckSORT d = new QuiIckSORT();
         Mythread t1 = new Mythread(d, "harshal");
         Mythread t2 = new Mythread(d, "bhave");
         t1.start();
